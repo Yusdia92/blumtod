@@ -379,10 +379,10 @@ class BlumTod:
 
     def main(self):
         banner = f"""
-{magenta}┏┓┳┓┏┓  ┏┓    •      {putih}BlumTod Auto Claim for {hijau}blum
-{magenta}┗┓┃┃┗┓  ┃┃┏┓┏┓┓┏┓┏╋  {hijau}Author : {putih} Yusdia92
+{magenta}┏┓┳┓┏┓  ┏┓    •      {putih}BlumTod Auto Ngebon {hijau}cabe
+{magenta}┗┓┃┃┗┓  ┃┃┏┓┏┓┓┏ ┏╋  {hijau}Author : {putih} Yusdia92
 {magenta}┗┛┻┛┗┛  ┣┛┛ ┗┛┃┗ ┗┗  {putih}Github : {hijau}https://github.com/@Yusdia92
-{magenta}              ┛      {hijau}Note : {putih}Kabaned wayahana we, bongana ngecheat
+{magenta}              ┛      {hijau}Note : {putih}Kabaned wayahna,bongan ngecheat
         """
         arg = argparse.ArgumentParser()
         arg.add_argument(
